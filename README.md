@@ -78,8 +78,7 @@ Algumas das tecnologias que tenho conhecimento:
     title="Robot Framework"
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://docs.robotframework.org/img/robot-framework-dark.svg
-    " 
+    src="https://cdn.brandfetch.io/idCECqIlRx/w/400/h/400/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B"
 />
 <img 
     align="left" 
