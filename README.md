@@ -1,16 +1,117 @@
-## Hi there 👋
+# 👩🏻‍💻 João Lopes
 
-<!--
-**jglopesdev/jglopesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Analista de Testes | Analista QA `**
 
-Here are some ideas to get you started:
+Me chamo João Lopes, resido na cidade de Praia Grande/SP. Formado em Análise e Desenvolvimento de Sistemas. Sou profissional de QA com experiência em testes manuais e automatizados, focado em aprimorar processos e colaborar com equipes de desenvolvimento e produto.        
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:open_file_folder: [portfólio](https://jglopes.dev) 
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<br>
+<br>
+
+Algumas das tecnologias que tenho conhecimento:
+
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="NodeJS" 
+    title="Nodejs"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Cypress" 
+    title="Cypress"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Playwright" 
+    title="Playwright"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Robot Framework" 
+    title="Robot Framework"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://docs.robotframework.org/img/robot-framework-dark.svg
+    " 
+/>
+<img 
+    align="left" 
+    alt="Appium" 
+    title="Appium"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://appium.io/docs/en/latest/assets/images/appium-logo-white.png" 
+/>
+<img 
+    align="left" 
+    alt="Jenkins" 
+    title="Jenkins"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Redis" 
+    title="Redis"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" 
+/>
+</div>
+
